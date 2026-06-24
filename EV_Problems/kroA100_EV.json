@@ -1,0 +1,709 @@
+{
+    "name": "kroA100",
+    "source_file": "kroA100.tsp",
+    "num_nodes": 100,
+    "map_scale": 100.0,
+    "service_rate": 10.0,
+    "nodes": [
+        {
+            "id": 0,
+            "x": 34.5783,
+            "y": 47.0437,
+            "demand": 33,
+            "grid_capacity": 66
+        },
+        {
+            "id": 1,
+            "x": 71.875,
+            "y": 3.7018,
+            "demand": 38,
+            "grid_capacity": 81
+        },
+        {
+            "id": 2,
+            "x": 88.6941,
+            "y": 84.6787,
+            "demand": 34,
+            "grid_capacity": 70
+        },
+        {
+            "id": 3,
+            "x": 11.128,
+            "y": 15.9383,
+            "demand": 30,
+            "grid_capacity": 55
+        },
+        {
+            "id": 4,
+            "x": 98.2978,
+            "y": 33.0077,
+            "demand": 199,
+            "grid_capacity": 39
+        },
+        {
+            "id": 5,
+            "x": 24.5173,
+            "y": 48.3805,
+            "demand": 22,
+            "grid_capacity": 57
+        },
+        {
+            "id": 6,
+            "x": 68.6484,
+            "y": 74.9614,
+            "demand": 22,
+            "grid_capacity": 48
+        },
+        {
+            "id": 7,
+            "x": 32.19,
+            "y": 25.7584,
+            "demand": 28,
+            "grid_capacity": 77
+        },
+        {
+            "id": 8,
+            "x": 68.5213,
+            "y": 72.3907,
+            "demand": 48,
+            "grid_capacity": 123
+        },
+        {
+            "id": 9,
+            "x": 18.2673,
+            "y": 66.8895,
+            "demand": 26,
+            "grid_capacity": 71
+        },
+        {
+            "id": 10,
+            "x": 31.3008,
+            "y": 92.9563,
+            "demand": 42,
+            "grid_capacity": 72
+        },
+        {
+            "id": 11,
+            "x": 68.8262,
+            "y": 86.0668,
+            "demand": 28,
+            "grid_capacity": 76
+        },
+        {
+            "id": 12,
+            "x": 96.4431,
+            "y": 7.455,
+            "demand": 31,
+            "grid_capacity": 72
+        },
+        {
+            "id": 13,
+            "x": 93.0894,
+            "y": 77.5835,
+            "demand": 45,
+            "grid_capacity": 89
+        },
+        {
+            "id": 14,
+            "x": 31.1992,
+            "y": 98.7661,
+            "demand": 48,
+            "grid_capacity": 99
+        },
+        {
+            "id": 15,
+            "x": 2.6423,
+            "y": 43.0848,
+            "demand": 284,
+            "grid_capacity": 67
+        },
+        {
+            "id": 16,
+            "x": 30.8689,
+            "y": 98.8175,
+            "demand": 29,
+            "grid_capacity": 72
+        },
+        {
+            "id": 17,
+            "x": 5.9197,
+            "y": 62.5193,
+            "demand": 22,
+            "grid_capacity": 55
+        },
+        {
+            "id": 18,
+            "x": 15.0407,
+            "y": 33.3676,
+            "demand": 39,
+            "grid_capacity": 103
+        },
+        {
+            "id": 19,
+            "x": 64.9644,
+            "y": 84.9357,
+            "demand": 25,
+            "grid_capacity": 63
+        },
+        {
+            "id": 20,
+            "x": 23.0945,
+            "y": 86.1697,
+            "demand": 32,
+            "grid_capacity": 63
+        },
+        {
+            "id": 21,
+            "x": 0.8638,
+            "y": 42.8278,
+            "demand": 26,
+            "grid_capacity": 60
+        },
+        {
+            "id": 22,
+            "x": 45.4268,
+            "y": 86.7352,
+            "demand": 233,
+            "grid_capacity": 46
+        },
+        {
+            "id": 23,
+            "x": 6.4787,
+            "y": 71.7738,
+            "demand": 28,
+            "grid_capacity": 72
+        },
+        {
+            "id": 24,
+            "x": 64.9136,
+            "y": 47.4036,
+            "demand": 45,
+            "grid_capacity": 110
+        },
+        {
+            "id": 25,
+            "x": 4.0396,
+            "y": 0.0,
+            "demand": 22,
+            "grid_capacity": 43
+        },
+        {
+            "id": 26,
+            "x": 67.5559,
+            "y": 92.5964,
+            "demand": 297,
+            "grid_capacity": 72
+        },
+        {
+            "id": 27,
+            "x": 45.122,
+            "y": 48.2262,
+            "demand": 30,
+            "grid_capacity": 58
+        },
+        {
+            "id": 28,
+            "x": 85.4929,
+            "y": 75.7841,
+            "demand": 47,
+            "grid_capacity": 82
+        },
+        {
+            "id": 29,
+            "x": 88.9482,
+            "y": 54.2416,
+            "demand": 27,
+            "grid_capacity": 57
+        },
+        {
+            "id": 30,
+            "x": 31.4278,
+            "y": 1.9023,
+            "demand": 20,
+            "grid_capacity": 38
+        },
+        {
+            "id": 31,
+            "x": 35.6961,
+            "y": 87.6093,
+            "demand": 250,
+            "grid_capacity": 67
+        },
+        {
+            "id": 32,
+            "x": 98.9329,
+            "y": 8.6375,
+            "demand": 38,
+            "grid_capacity": 107
+        },
+        {
+            "id": 33,
+            "x": 77.8963,
+            "y": 77.3265,
+            "demand": 25,
+            "grid_capacity": 64
+        },
+        {
+            "id": 34,
+            "x": 64.8882,
+            "y": 100.0,
+            "demand": 41,
+            "grid_capacity": 100
+        },
+        {
+            "id": 35,
+            "x": 11.2805,
+            "y": 84.6272,
+            "demand": 22,
+            "grid_capacity": 60
+        },
+        {
+            "id": 36,
+            "x": 97.9675,
+            "y": 29.5116,
+            "demand": 38,
+            "grid_capacity": 71
+        },
+        {
+            "id": 37,
+            "x": 7.0884,
+            "y": 76.5553,
+            "demand": 243,
+            "grid_capacity": 59
+        },
+        {
+            "id": 38,
+            "x": 87.9065,
+            "y": 40.9769,
+            "demand": 243,
+            "grid_capacity": 62
+        },
+        {
+            "id": 39,
+            "x": 64.1006,
+            "y": 10.8997,
+            "demand": 48,
+            "grid_capacity": 123
+        },
+        {
+            "id": 40,
+            "x": 100.0,
+            "y": 88.3805,
+            "demand": 45,
+            "grid_capacity": 102
+        },
+        {
+            "id": 41,
+            "x": 33.1301,
+            "y": 13.162,
+            "demand": 182,
+            "grid_capacity": 48
+        },
+        {
+            "id": 42,
+            "x": 87.0935,
+            "y": 92.8535,
+            "demand": 40,
+            "grid_capacity": 83
+        },
+        {
+            "id": 43,
+            "x": 74.1108,
+            "y": 16.0925,
+            "demand": 293,
+            "grid_capacity": 96
+        },
+        {
+            "id": 44,
+            "x": 40.7012,
+            "y": 92.8535,
+            "demand": 47,
+            "grid_capacity": 118
+        },
+        {
+            "id": 45,
+            "x": 85.2134,
+            "y": 83.3933,
+            "demand": 39,
+            "grid_capacity": 102
+        },
+        {
+            "id": 46,
+            "x": 34.9085,
+            "y": 69.1003,
+            "demand": 291,
+            "grid_capacity": 62
+        },
+        {
+            "id": 47,
+            "x": 97.9421,
+            "y": 66.5296,
+            "demand": 35,
+            "grid_capacity": 93
+        },
+        {
+            "id": 48,
+            "x": 23.3486,
+            "y": 47.8663,
+            "demand": 38,
+            "grid_capacity": 103
+        },
+        {
+            "id": 49,
+            "x": 76.2957,
+            "y": 23.1362,
+            "demand": 26,
+            "grid_capacity": 67
+        },
+        {
+            "id": 50,
+            "x": 62.5762,
+            "y": 59.5887,
+            "demand": 284,
+            "grid_capacity": 71
+        },
+        {
+            "id": 51,
+            "x": 97.4339,
+            "y": 46.2211,
+            "demand": 35,
+            "grid_capacity": 89
+        },
+        {
+            "id": 52,
+            "x": 9.0701,
+            "y": 41.1825,
+            "demand": 48,
+            "grid_capacity": 132
+        },
+        {
+            "id": 53,
+            "x": 63.5163,
+            "y": 5.7069,
+            "demand": 25,
+            "grid_capacity": 54
+        },
+        {
+            "id": 54,
+            "x": 74.3394,
+            "y": 82.1594,
+            "demand": 38,
+            "grid_capacity": 69
+        },
+        {
+            "id": 55,
+            "x": 23.7297,
+            "y": 12.545,
+            "demand": 28,
+            "grid_capacity": 66
+        },
+        {
+            "id": 56,
+            "x": 66.2856,
+            "y": 74.8072,
+            "demand": 193,
+            "grid_capacity": 46
+        },
+        {
+            "id": 57,
+            "x": 52.7947,
+            "y": 49.2031,
+            "demand": 46,
+            "grid_capacity": 107
+        },
+        {
+            "id": 58,
+            "x": 22.1291,
+            "y": 93.6761,
+            "demand": 21,
+            "grid_capacity": 46
+        },
+        {
+            "id": 59,
+            "x": 53.8618,
+            "y": 91.6195,
+            "demand": 27,
+            "grid_capacity": 66
+        },
+        {
+            "id": 60,
+            "x": 61.0264,
+            "y": 50.5398,
+            "demand": 21,
+            "grid_capacity": 53
+        },
+        {
+            "id": 61,
+            "x": 57.6982,
+            "y": 91.8252,
+            "demand": 43,
+            "grid_capacity": 121
+        },
+        {
+            "id": 62,
+            "x": 27.8455,
+            "y": 52.8535,
+            "demand": 34,
+            "grid_capacity": 60
+        },
+        {
+            "id": 63,
+            "x": 65.2693,
+            "y": 14.2931,
+            "demand": 20,
+            "grid_capacity": 38
+        },
+        {
+            "id": 64,
+            "x": 7.8252,
+            "y": 12.3907,
+            "demand": 39,
+            "grid_capacity": 71
+        },
+        {
+            "id": 65,
+            "x": 5.6402,
+            "y": 16.2982,
+            "demand": 186,
+            "grid_capacity": 57
+        },
+        {
+            "id": 66,
+            "x": 48.2215,
+            "y": 34.0874,
+            "demand": 46,
+            "grid_capacity": 94
+        },
+        {
+            "id": 67,
+            "x": 75.5081,
+            "y": 39.4859,
+            "demand": 38,
+            "grid_capacity": 79
+        },
+        {
+            "id": 68,
+            "x": 64.8882,
+            "y": 29.563,
+            "demand": 49,
+            "grid_capacity": 109
+        },
+        {
+            "id": 69,
+            "x": 0.0,
+            "y": 33.419,
+            "demand": 48,
+            "grid_capacity": 120
+        },
+        {
+            "id": 70,
+            "x": 98.8821,
+            "y": 84.7815,
+            "demand": 22,
+            "grid_capacity": 40
+        },
+        {
+            "id": 71,
+            "x": 21.6717,
+            "y": 78.9203,
+            "demand": 48,
+            "grid_capacity": 92
+        },
+        {
+            "id": 72,
+            "x": 72.2561,
+            "y": 27.455,
+            "demand": 48,
+            "grid_capacity": 96
+        },
+        {
+            "id": 73,
+            "x": 23.1199,
+            "y": 89.563,
+            "demand": 25,
+            "grid_capacity": 56
+        },
+        {
+            "id": 74,
+            "x": 20.8333,
+            "y": 30.6427,
+            "demand": 154,
+            "grid_capacity": 37
+        },
+        {
+            "id": 75,
+            "x": 98.4248,
+            "y": 4.0103,
+            "demand": 44,
+            "grid_capacity": 100
+        },
+        {
+            "id": 76,
+            "x": 54.8526,
+            "y": 82.0051,
+            "demand": 32,
+            "grid_capacity": 74
+        },
+        {
+            "id": 77,
+            "x": 96.6209,
+            "y": 44.9871,
+            "demand": 35,
+            "grid_capacity": 96
+        },
+        {
+            "id": 78,
+            "x": 9.1209,
+            "y": 52.6478,
+            "demand": 150,
+            "grid_capacity": 32
+        },
+        {
+            "id": 79,
+            "x": 29.4461,
+            "y": 3.9075,
+            "demand": 25,
+            "grid_capacity": 64
+        },
+        {
+            "id": 80,
+            "x": 65.5488,
+            "y": 45.09,
+            "demand": 31,
+            "grid_capacity": 87
+        },
+        {
+            "id": 81,
+            "x": 86.3059,
+            "y": 6.1183,
+            "demand": 49,
+            "grid_capacity": 116
+        },
+        {
+            "id": 82,
+            "x": 74.7459,
+            "y": 81.2853,
+            "demand": 21,
+            "grid_capacity": 59
+        },
+        {
+            "id": 83,
+            "x": 15.0407,
+            "y": 69.9229,
+            "demand": 48,
+            "grid_capacity": 108
+        },
+        {
+            "id": 84,
+            "x": 78.6077,
+            "y": 44.2674,
+            "demand": 24,
+            "grid_capacity": 43
+        },
+        {
+            "id": 85,
+            "x": 65.498,
+            "y": 92.8535,
+            "demand": 21,
+            "grid_capacity": 58
+        },
+        {
+            "id": 86,
+            "x": 65.2185,
+            "y": 64.8843,
+            "demand": 27,
+            "grid_capacity": 56
+        },
+        {
+            "id": 87,
+            "x": 3.6077,
+            "y": 45.347,
+            "demand": 247,
+            "grid_capacity": 47
+        },
+        {
+            "id": 88,
+            "x": 35.8232,
+            "y": 5.6555,
+            "demand": 31,
+            "grid_capacity": 75
+        },
+        {
+            "id": 89,
+            "x": 18.3689,
+            "y": 51.4653,
+            "demand": 42,
+            "grid_capacity": 78
+        },
+        {
+            "id": 90,
+            "x": 40.8028,
+            "y": 83.6504,
+            "demand": 253,
+            "grid_capacity": 76
+        },
+        {
+            "id": 91,
+            "x": 29.6748,
+            "y": 35.0643,
+            "demand": 24,
+            "grid_capacity": 59
+        },
+        {
+            "id": 92,
+            "x": 44.9187,
+            "y": 50.6427,
+            "demand": 173,
+            "grid_capacity": 31
+        },
+        {
+            "id": 93,
+            "x": 0.0762,
+            "y": 49.5116,
+            "demand": 48,
+            "grid_capacity": 129
+        },
+        {
+            "id": 94,
+            "x": 91.997,
+            "y": 0.9769,
+            "demand": 38,
+            "grid_capacity": 88
+        },
+        {
+            "id": 95,
+            "x": 94.9441,
+            "y": 44.1131,
+            "demand": 20,
+            "grid_capacity": 35
+        },
+        {
+            "id": 96,
+            "x": 19.2327,
+            "y": 18.9203,
+            "demand": 20,
+            "grid_capacity": 48
+        },
+        {
+            "id": 97,
+            "x": 43.3181,
+            "y": 83.1877,
+            "demand": 31,
+            "grid_capacity": 84
+        },
+        {
+            "id": 98,
+            "x": 4.5478,
+            "y": 91.8252,
+            "demand": 269,
+            "grid_capacity": 71
+        },
+        {
+            "id": 99,
+            "x": 99.873,
+            "y": 78.8689,
+            "demand": 194,
+            "grid_capacity": 51
+        }
+    ]
+}
