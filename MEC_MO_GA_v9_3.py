@@ -835,7 +835,7 @@ def evolve_one_generation(attraction_matrix, gen, max_gen):
     repair(offspring)
     off_F, off_CV = evaluate_population(offspring)
 
-    MainPop, MainFit, MainCV = environmental_selection(
+    MainPop, MainFit, MainCV = environmental_selection_1v1(
         parents_pop, parents_F, parents_CV, offspring, off_F, off_CV)
 
     # 占位；真正个体率由末尾 adaptive_control 按新秩写入
